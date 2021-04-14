@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **anything that is interesting**
 
-- 🤝 I’m looking for help with **Visual Studio with Git**
+- 🤝 I’m looking for help with **C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TerabyteTB](https://github.com/TerabyteTB)
 
