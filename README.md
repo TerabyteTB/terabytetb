@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm an extreme Java enthusiast</h1>
-<h3 align="center">Just a hobby</h3>
 
 - 🔭 I’m currently working on [a new text editor](https://github.com/TerabyteTB/WhirlpoolEditor)
 
