@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm an extreme Java enthusiast</h1>
 
-- 🔭 I’m currently working on [a new text editor](https://github.com/TerabyteTB/WhirlpoolEditor)
+- 🔭 I’m currently working on [a discord bot](https://github.com/TerabyteTB/Mendbot)
 
 - 🌱 I’m currently learning **Maven and Git**
 
