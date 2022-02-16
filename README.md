@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [a discord bot](https://github.com/TerabyteTB/Mendbot)
 
-- 🌱 I’m currently learning **Maven and Git**
+- 🌱 I’m currently learning **Git**
 
 - 👯 I’m looking to collaborate on **anything that is interesting**
 
