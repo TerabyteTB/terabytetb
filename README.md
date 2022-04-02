@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm an extreme Java enthusiast</h1>
+<h1 align="center">Hi 👋, I'm a Java enthusiast</h1>
 
 - 🔭 I’m currently working on [a discord bot](https://github.com/TerabyteTB/Mendbot)
 
